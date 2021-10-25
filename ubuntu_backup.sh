@@ -1,4 +1,3 @@
-  GNU nano 4.8                                       full_backup.sh
 #!/bin/sh
 # Backup script for all main files
 
